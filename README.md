@@ -7,4 +7,6 @@ Aplikacja służąca do obsługi kamery internetowej.
 
 - Możliwość wykonywania zdjęć
 
+### Wizualizacja projektu
 
+<img src='wyglad_projektu.png'>
